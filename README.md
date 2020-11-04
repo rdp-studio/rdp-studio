@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![rdp-studio's github stats](https://github-readme-stats.vercel.app/api?username=rdp-studio&show_icons=true&theme=gradient)
+
 <!--
 **rdp-studio/rdp-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
