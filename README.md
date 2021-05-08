@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋 ! We are RDPStudio.
 
-![rdp-studio's github stats](https://rdp-github-readme-stats.vercel.app/api?username=rdp-studio&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![RDPStudio's github stats](https://rdp-github-readme-stats.vercel.app/api?username=rdp-studio&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+Links: [Blog](https://github.com/rdp-studio/ghiblog)
 
 <!--
 **rdp-studio/rdp-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
