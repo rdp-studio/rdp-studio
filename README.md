@@ -34,7 +34,6 @@
 
 [![BiliBili](https://img.shields.io/badge/-启动台Launchpad-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/392383363)
 [![E-Mail](https://img.shields.io/badge/-admin@rdpstudio.top-168de2?style=flat-square&logo=mail.ru&logoColor=white&labelColor=168de2)](mailto:admin_at_rdpstudio.top)
-[![Matrix](https://img.shields.io/badge/%5Bm%5D-%40launchpad%3Amatrix.rdpstudio.top-ff69b4?style=flat-square)](https://matrix.to/#/@launchpad:matrix.rdpstudio.top)
 
 ## 💻 Working Environment
 
