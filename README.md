@@ -15,6 +15,8 @@
 
 <img alt="Genshin Card" src="https://genshin-card.getloli.com/rand/334875644.png">
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/640852402039422986)](https://discord.com/users/640852402039422986)
+
 😄 Currently I’m funder of [@方糖网络科技](https://github.com/rdpstudio2019).
 
 ## 🌱 Programming Languages
