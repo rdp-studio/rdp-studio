@@ -13,7 +13,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=F79A82&vCenter=true&lines=%F0%9F%92%96+Let's+give+it+a+shot!+Go+on+and+catch+the+dream!)](https://git.io/typing-svg)
 
-<img alt="Genshin Card" src="https://genshin-card.getloli.com/rand/334875644.png">
+<!--<img alt="Genshin Card" src="https://genshin-card.getloli.com/rand/334875644.png">-->
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/640852402039422986)](https://discord.com/users/640852402039422986)
 
