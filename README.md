@@ -70,7 +70,8 @@
 ## 💰 Buy me a Coffee
 
 ✨ If you like my projects, you can buy me a coffee at:
- - [爱发电](https://afdian.net/@rdpstudio)
+ - [爱发电](https://afdian.net/a/monterey)
+ - Ethereum `0x4c3ecC02101a3202572cDddeC859E771d6612ECF`
 
 🤔 Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button.
 
