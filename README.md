@@ -4,12 +4,10 @@
 
 ### Hi there 👋 This... It's me? Okay.
 
-- An apple app????
 - Chinese
-- zh-CN / en-US / ~~ja-JP~~
-- Programmer / Developer / Coder / Engineer
+- zh-CN / en-US
+- Founder / Programmer / Developer / Coder / Engineer
 - Real / Virtual Games Lover
-- A new virtual youtuber in preparation
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=F79A82&vCenter=true&lines=%F0%9F%92%96+Let's+give+it+a+shot!+Go+on+and+catch+the+dream!)](https://git.io/typing-svg)
 
@@ -17,7 +15,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/640852402039422986)](https://discord.com/users/640852402039422986)
 
-😄 Currently I’m funder of [@方糖网络科技](https://github.com/rdpstudio2019).
+😄 Currently I’m funder of [@方糖网络科技](https://rdpstudio.top) and [@FutureVerse](https://futureverse.top).
 
 ## 🌱 Programming Languages
 
