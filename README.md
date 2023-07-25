@@ -1,4 +1,5 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=rdp-studio&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=Launchpad&count_private=true">
+<!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=rdp-studio&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=Launchpad&count_private=true">-->
+<img align="right" src="/github-metrics.svg">
 
 # Launchpad [![wakatime](https://wakatime.com/badge/user/6782aa20-64c9-4331-ad13-3c34e915703d.svg)](https://wakatime.com/@6782aa20-64c9-4331-ad13-3c34e915703d)
 
