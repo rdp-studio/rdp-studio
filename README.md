@@ -1,5 +1,5 @@
-<!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=rdp-studio&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=Launchpad&count_private=true">-->
-<img align="right" src="/github-metrics.svg">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=rdp-studio&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=Launchpad&count_private=true">
+<!--<img align="right" src="/github-metrics.svg">-->
 
 # Launchpad [![wakatime](https://wakatime.com/badge/user/6782aa20-64c9-4331-ad13-3c34e915703d.svg)](https://wakatime.com/@6782aa20-64c9-4331-ad13-3c34e915703d)
 
@@ -12,9 +12,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=F79A82&vCenter=true&lines=%F0%9F%92%96+Let's+give+it+a+shot!+Go+on+and+catch+the+dream!)](https://git.io/typing-svg)
 
-<!--<img alt="Genshin Card" src="https://genshin-card.getloli.com/rand/334875644.png">-->
+<img alt="Genshin Card" src="https://genshin-card.rdpstudio.repl.co/rand/334875644.png">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/640852402039422986)](https://discord.com/users/640852402039422986)
+<!--[![Discord Presence](https://lanyard.cnrad.dev/api/640852402039422986)](https://discord.com/users/640852402039422986)-->
 
 😄 Currently I’m funder of [@方糖网络科技](https://rdpstudio.top) and [@FutureVerse](https://futureverse.top).
 
