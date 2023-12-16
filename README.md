@@ -16,7 +16,7 @@
 
 <!--[![Discord Presence](https://lanyard.cnrad.dev/api/640852402039422986)](https://discord.com/users/640852402039422986)-->
 
-😄 Currently I’m founder of [@方糖网络科技](https://rdpstudio.top) and [@FutureVerse](https://futureverse.top).
+😄 Currently I’m founder of [@糖星科技](https://www.candystar.top).
 
 ## 🌱 Programming Languages
 
@@ -34,7 +34,6 @@
 ## 📫 Get in Touch
 
 [![BiliBili](https://img.shields.io/badge/-启动台Launchpad-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/392383363)
-[![BiliBili](https://img.shields.io/badge/%5Bmatrix%5D-%40xw356a1__fangtang%3Ahyperchat.rdpstudio.top-blue)](https://matrix.to/#/@xw356a1_fangtang:hyperchat.rdpstudio.top)
 
 ## 💻 Working Environment
 
