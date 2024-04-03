@@ -69,7 +69,7 @@
 ## 💰 Buy me a Coffee
 
 ✨ If you like my projects, you can buy me a coffee at:
- - [爱发电](https://afdian.net/a/monterey)
+ - [爱发电](https://afdian.net/a/launchpad)
  - Ethereum `0x4c3ecC02101a3202572cDddeC859E771d6612ECF`
 
 ![Visit Count](https://moe-counter.glitch.me/get/@rdp-studio:gh-readme?theme=moebooru)
