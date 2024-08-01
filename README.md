@@ -10,8 +10,6 @@
 - Founder / Programmer / Developer / Coder / Engineer
 - Real / Virtual Games Lover
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=F79A82&vCenter=true&lines=%F0%9F%92%96+Let's+give+it+a+shot!+Go+on+and+catch+the+dream!)](https://git.io/typing-svg)
-
 <!--[![Genshin Card](https://genshin-card.rdpstudio.repl.co/rand/334875644.png)](https://ys.mihoyo.com/main/)-->
 
 <!--[![Discord Presence](https://lanyard.cnrad.dev/api/640852402039422986)](https://discord.com/users/640852402039422986)-->
@@ -69,7 +67,7 @@
 ## 💰 Buy me a Coffee
 
 ✨ If you like my projects, you can buy me a coffee at:
- - [爱发电](https://afdian.net/a/launchpad)
+ - [爱发电](https://afdian.com/a/launchpad)
  - TON `launchpad001.ton` (`UQDhjaqoWnbTPwuKX-D0sG8RwdtlA3ZPl-WQCF-NAhW9O8PG`)
  - Ethereum `0x1F1ac59a4db6358DcA08ec33FB9AFe509e5cf9BD`
 
