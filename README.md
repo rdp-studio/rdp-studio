@@ -14,7 +14,7 @@
 
 <!--[![Discord Presence](https://lanyard.cnrad.dev/api/640852402039422986)](https://discord.com/users/640852402039422986)-->
 
-😄 Currently I’m founder of [@糖星科技](https://www.candystar.top).
+😄 Currently I’m founder of Shanghai Candy Rectangle Technology Co., Ltd.
 
 ## 🌱 Programming Languages
 
