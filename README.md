@@ -69,7 +69,6 @@
 ✨ If you like my projects, you can buy me a coffee at:
  - [爱发电](https://afdian.com/a/launchpad)
  - TON `launchpad001.ton` (`UQDhjaqoWnbTPwuKX-D0sG8RwdtlA3ZPl-WQCF-NAhW9O8PG`)
- - Ethereum `0x1F1ac59a4db6358DcA08ec33FB9AFe509e5cf9BD`
 
 ![Visit Count](https://moe-counter.glitch.me/get/@rdp-studio:gh-readme?theme=rule34)
 
