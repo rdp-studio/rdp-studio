@@ -18,29 +18,39 @@
 
 ## 🌱 Programming Languages
 
-![Batch](https://img.shields.io/badge/-Batch-4d4d4d?style=flat-square&logo=windows%20terminal&logoColor=fff)
+<!--
 ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C%2b%2b-00599c?style=flat-square&logo=C%2b%2b&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6)
-![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
+![Batch](https://img.shields.io/badge/-Batch-4d4d4d?style=flat-square&logo=windows%20terminal&logoColor=fff)
+-->
+![Go](https://img.shields.io/badge/-Go-007d9c?style=flat-square&logo=go&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=css&labelColor=1572b6)
+![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)
+![Vue](https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=Vue.js&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=TypeScript&labelColor=3178c6&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
 ![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=PHP&logoColor=fff)
 ![Shell](https://img.shields.io/badge/-Shell-4eaa25?style=flat-square&logo=gnu%20bash&logoColor=fff)
 
 ## 📫 Get in Touch
 
-[![BiliBili](https://img.shields.io/badge/-启动台Launchpad-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/392383363)
+[![BiliBili](https://img.shields.io/badge/-启动台LaunchPad-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/392383363)
+[![Telegram Channel](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftelegram%2Fjackzeng6666_channel&query=count&color=2CA5E0&label=Telegram%20Channel&labelColor=282c34&logo=telegram&suffix=+subscribers&cacheSeconds=3600)](https://t.me/jackzeng6666_channel)
+[![Telegram Group](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftelegram%2Fjackzeng6666_group&query=count&color=2CA5E0&label=Telegram%20Group&labelColor=282c34&logo=telegram&suffix=+members&cacheSeconds=3600)](https://t.me/jackzeng6666_group)
+[![DN42 NOC Channel](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftelegram%2FAS4242423702&query=count&color=2CA5E0&label=DN42%20NOC%20Channel&labelColor=282c34&logo=telegram&suffix=+subscribers&cacheSeconds=3600)](https://t.me/AS4242423702)
 
 ## 💻 Working Environment
 
+<!--
 ![Windows 11 Pro](https://img.shields.io/badge/Windows%2011%20Pro-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Windows Server 2022 Datacenter](https://img.shields.io/badge/Windows%20Server%202022%20Datacenter-00adef?style=flat-square&logo=windows&logoColor=ffffff)
-![Ubuntu 21.04](https://img.shields.io/badge/Ubuntu%2021.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Android Snow Cone 12.1](https://img.shields.io/badge/Android%20Snow%20Cone%2012.1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
-![iOS 15.4](https://img.shields.io/badge/iOS%2015.4-000000?style=flat-square&logo=iOS&logoColor=ffffff)
-![macOS Monterey 12.3](https://img.shields.io/badge/macOS%20Monterey%2012.3-000000?style=flat-square&logo=macos&logoColor=ffffff)
+-->
+![macOS Tahoe 26.0 Beta](https://img.shields.io/badge/macOS%20Tahoe%2026.0%20Beta-000000?style=flat-square&logo=macos&logoColor=ffffff)
+![iOS 26.0 Beta](https://img.shields.io/badge/iOS%2026.0%20Beta-000000?style=flat-square&logo=iOS&logoColor=ffffff)
+![Ubuntu 24.04](https://img.shields.io/badge/Ubuntu%2024.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Github Codespaces](https://img.shields.io/badge/Github%20Codespaces-000000?style=flat-square)
 
 ## 📱 Devices in Use
