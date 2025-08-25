@@ -57,12 +57,16 @@
 
 ### Phone / Pad
 
+![Apple iPhone 16 Pro Max](https://img.shields.io/badge/Apple%20iPhone%2016%20Pro%20Max-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
 ![Apple iPad](https://img.shields.io/badge/Apple%20iPad-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
-![Xiaomi 10 Pro](https://img.shields.io/badge/Xiaomi%2010%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+
+<!--
 
 ### Watch / Wearable / Band / Others
 
 ![Xiaomi Mi Band 3](https://img.shields.io/badge/Xiaomi%20Mi%20Band%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+
+-->
 
 ## 🔒 Public Keys
 
