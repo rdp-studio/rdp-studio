@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=rdp-studio&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=Launchpad&count_private=true">
+<img align="right" src="https://github-readme-stats-vc.vercel.app/api?username=rdp-studio&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=Launchpad&count_private=true">
 <!--<img align="right" src="/github-metrics.svg">-->
 
 # Launchpad [![wakatime](https://wakatime.com/badge/user/6782aa20-64c9-4331-ad13-3c34e915703d.svg)](https://wakatime.com/@6782aa20-64c9-4331-ad13-3c34e915703d)
@@ -8,9 +8,9 @@
 - Chinese
 - zh-CN / en-US
 - Founder / Programmer / Developer / Coder / Engineer
-- Real / Virtual Games Lover
+- [AS214955](https://bgp.tools/as/214955) NOC
 
-<!--[![Genshin Card](https://genshin-card.rdpstudio.repl.co/rand/334875644.png)](https://ys.mihoyo.com/main/)-->
+<!--[![Genshin Card](https://ys.himiku.com/rand/334875644.png)](https://ys.mihoyo.com/main/)-->
 
 <!--[![Discord Presence](https://lanyard.cnrad.dev/api/640852402039422986)](https://discord.com/users/640852402039422986)-->
 
@@ -84,7 +84,7 @@
  - [爱发电](https://afdian.com/a/launchpad)
  - TON `launchpad001.ton` (`UQDhjaqoWnbTPwuKX-D0sG8RwdtlA3ZPl-WQCF-NAhW9O8PG`)
 
-![Visit Count](https://moe-counter.glitch.me/get/@rdp-studio:gh-readme?theme=rule34)
+![Visit Count](https://count.getloli.com/get/@rdp-studio:gh-readme?theme=rule34)
 
 🤔 Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button.
 
