@@ -48,8 +48,8 @@
 ![Windows Server 2022 Datacenter](https://img.shields.io/badge/Windows%20Server%202022%20Datacenter-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Android Snow Cone 12.1](https://img.shields.io/badge/Android%20Snow%20Cone%2012.1-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 -->
-![macOS Tahoe 26.0 Beta](https://img.shields.io/badge/macOS%20Tahoe%2026.0%20Beta-000000?style=flat-square&logo=macos&logoColor=ffffff)
-![iOS 26.0 Beta](https://img.shields.io/badge/iOS%2026.0%20Beta-000000?style=flat-square&logo=iOS&logoColor=ffffff)
+![macOS Tahoe 26.1 Beta](https://img.shields.io/badge/macOS%20Tahoe%2026.1%20Beta-000000?style=flat-square&logo=macos&logoColor=ffffff)
+![iOS 26.1 Beta](https://img.shields.io/badge/iOS%2026.1%20Beta-000000?style=flat-square&logo=iOS&logoColor=ffffff)
 ![Ubuntu 24.04](https://img.shields.io/badge/Ubuntu%2024.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Github Codespaces](https://img.shields.io/badge/Github%20Codespaces-000000?style=flat-square)
 
