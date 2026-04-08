@@ -7,8 +7,8 @@
 
 - Chinese
 - zh-CN / en-US
-- Founder / Programmer / Developer / Coder / Engineer
-- [AS214955](https://bgp.tools/as/214955) NOC
+- Founder / Programmer / Developer / Coder / Engineer / DevOps
+- [AS214955](https://bgp.tools/as/214955) & [AS215172](https://bgp.tools/as/215172) NOC
 
 <!--[![Genshin Card](https://ys.himiku.com/rand/334875644.png)](https://ys.mihoyo.com/main/)-->
 
