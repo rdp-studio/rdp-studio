@@ -80,9 +80,7 @@
 
 ## 💰 Buy me a Coffee
 
-✨ If you like my projects, you can buy me a coffee at:
- - [爱发电](https://afdian.com/a/launchpad)
- - TON `launchpad001.ton` (`UQDhjaqoWnbTPwuKX-D0sG8RwdtlA3ZPl-WQCF-NAhW9O8PG`)
+✨ If you like my projects, consider buying me a coffee via [sponsor](https://launchpadx.top/en/sponsor).
 
 ![Visit Count](https://count.getloli.com/get/@rdp-studio:gh-readme?theme=rule34)
 
