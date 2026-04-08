@@ -14,7 +14,7 @@
 
 <!--[![Discord Presence](https://lanyard.cnrad.dev/api/640852402039422986)](https://discord.com/users/640852402039422986)-->
 
-😄 Currently I’m founder of Shanghai Candy Rectangle Technology Co., Ltd.
+😄 I'm currently the founder & CEO of Shanghai Candy Rectangle Technology Co., Ltd., and serve as the Chief Innovation Officer of JIANYUELAB LTD.
 
 ## 🌱 Programming Languages
 
