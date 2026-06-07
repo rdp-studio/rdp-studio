@@ -41,19 +41,10 @@
 ![macOS Tahoe 26.3](https://img.shields.io/badge/macOS%20Tahoe%2026.3-000000?style=flat-square&logo=macos&logoColor=ffffff)
 ![iOS 26.5](https://img.shields.io/badge/iOS%2026.5-000000?style=flat-square&logo=iOS&logoColor=ffffff)
 ![Ubuntu 24.04](https://img.shields.io/badge/Ubuntu%2024.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
+![Debian 13](https://img.shields.io/badge/Debian%2013-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 <!--
 ![Github Codespaces](https://img.shields.io/badge/Github%20Codespaces-000000?style=flat-square)
 -->
-
-## 🔒 Public Keys
-
-### PGP Public Key (RSA 4096)
-
-[GitHub](https://github.com/launchpad001.gpg)
-
-### SSH Public Key (RSA 4096)
-
-[GitHub](https://github.com/launchpad001.keys)
 
 ## 💰 Buy me a Coffee
 
