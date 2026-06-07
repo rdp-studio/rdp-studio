@@ -1,7 +1,7 @@
-<img align="right" src="https://github-readme-stats-vc.vercel.app/api?username=rdp-studio&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=Launchpad&count_private=true">
+<img align="right" src="https://github-readme-stats-vc.vercel.app/api?username=launchpad001&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=LaunchPad&count_private=true">
 <!--<img align="right" src="/github-metrics.svg">-->
 
-# LaunchPad [![wakatime](https://wakatime.com/badge/user/6782aa20-64c9-4331-ad13-3c34e915703d.svg)](https://wakatime.com/@6782aa20-64c9-4331-ad13-3c34e915703d)
+# LaunchPad [![wakatime](https://wakatime.com/badge/user/6782aa20-64c9-4331-ad13-3c34e915703d.svg)](https://wakatime.com/@launchpad001)
 
 ### Hi there 👋
 
@@ -31,6 +31,8 @@
 ## 📫 Get in Touch
 
 [![BiliBili](https://img.shields.io/badge/-启动台LaunchPad-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/392383363)
+[![X](https://img.shields.io/badge/-launchpad001-000000?style=flat-square&logo=X&logoColor=white)](https://x.com/launchpad001)
+[![Bluesky](https://img.shields.io/badge/-launchpadx.top-1185FE?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/launchpadx.top)
 [![Telegram Channel](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftelegram%2Fjackzeng6666_channel&query=count&color=2CA5E0&label=Telegram%20Channel&labelColor=282c34&logo=telegram&suffix=+subscribers&cacheSeconds=3600)](https://t.me/jackzeng6666_channel)
 [![Telegram Group](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Ftelegram%2Fjackzeng6666_group&query=count&color=2CA5E0&label=Telegram%20Group&labelColor=282c34&logo=telegram&suffix=+members&cacheSeconds=3600)](https://t.me/jackzeng6666_group)
 
@@ -43,30 +45,15 @@
 ![Github Codespaces](https://img.shields.io/badge/Github%20Codespaces-000000?style=flat-square)
 -->
 
-## 📱 Devices in Use
-
-### Phone / Pad
-
-![Apple iPhone 16 Pro Max](https://img.shields.io/badge/Apple%20iPhone%2016%20Pro%20Max-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
-![Apple iPad](https://img.shields.io/badge/Apple%20iPad-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
-
-<!--
-
-### Watch / Wearable / Band / Others
-
-![Xiaomi Mi Band 3](https://img.shields.io/badge/Xiaomi%20Mi%20Band%203-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-
--->
-
 ## 🔒 Public Keys
 
 ### PGP Public Key (RSA 4096)
 
-[GitHub](https://github.com/rdp-studio.gpg)
+[GitHub](https://github.com/launchpad001.gpg)
 
 ### SSH Public Key (RSA 4096)
 
-[GitHub](https://github.com/rdp-studio.keys)
+[GitHub](https://github.com/launchpad001.keys)
 
 ## 💰 Buy me a Coffee
 
